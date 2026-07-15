@@ -1,5 +1,7 @@
 # Suite Estructural NSR-10 — Seismic Design Engine
 
+![tests](https://github.com/jfcg2407-gif/suite-estructural-nsr10/actions/workflows/tests.yml/badge.svg)
+
 A Python engine that automates the **seismic design of reinforced-concrete
 buildings** under the Colombian building code **NSR-10**, integrated with
 **ETABS 22** (CSI's structural-analysis software) through its COM API.
